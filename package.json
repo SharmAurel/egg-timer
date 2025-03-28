@@ -1,6 +1,6 @@
 {
-  "homepage": "https://SharmAurel.github.io/egg-timer",
   "name": "egg-timer",
+  "homepage": "https://SharmAurel.github.io/egg-timer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
